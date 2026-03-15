@@ -74,6 +74,8 @@ Delivery performance is strong with an average delivery time of ~2 days.
 Customer satisfaction remains high with ratings mostly between 4 and 5.
 
 ## 📷 Dashboard Preview
+https://github.com/angelsingh31/E-Commerce-Sales-and-Customer-Behavior-Dashboard/blob/main/dashboard.png.png
+
 
 
 
